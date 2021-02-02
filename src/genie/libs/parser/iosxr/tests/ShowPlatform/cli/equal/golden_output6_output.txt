@@ -1,0 +1,11 @@
+RP/0/RP0/CPU0:ios#show platform
+Mon Feb  1 14:52:22.374 UTC
+Node              Type                       State             Config state
+--------------------------------------------------------------------------------
+0/2               NCS1K4-OTN-XP              POWERED_ON        NSHUT
+0/RP0/CPU0        NCS1K4-CNTLR-K9(Active)    IOS XR RUN        NSHUT
+0/FT0             NCS1K4-FAN                 OPERATIONAL       NSHUT
+0/FT1             NCS1K4-FAN                 OPERATIONAL       NSHUT
+0/FT2             NCS1K4-FAN                 OPERATIONAL       NSHUT
+0/PM0             NCS1K4-AC-PSU              OPERATIONAL       NSHUT
+0/SC0             NCS1004                    OPERATIONAL       NSHUT
